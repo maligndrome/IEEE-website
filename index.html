@@ -1,0 +1,111 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+<!--navbar div-->
+<div class="container">
+<nav class="navbar navbar-fixed-top" id="navigation">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+<span class="icon-bar" style="color:#fff"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div class="navbar-brand">
+<img src="images/ieee-logo.png" height="30px" style="margin-top:-5px; float:left;">
+
+
+</div>
+</div>
+<div class="collapse navbar-collapse" id="navbar-collapse">
+<ul class="nav navbar-nav">
+<li>&nbsp;&nbsp;&nbsp;</li>
+<li class="active"><a href="index.html"> Home </a></li>
+<li><a href="about.html"> About </a></li>
+<li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#"> SIGs 
+          <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="python.html">Computer Society</a></li> 
+            <li><a href="diode.html">Circuits and Systems</a></li>
+            <li><a href="piston.html">Piston</a></li>   
+          </ul>
+</li>
+<li><a href="sight.html"> SIGHT </a></li>
+<li><a href="epics.html"> EPICS </a></li>
+<li><a href="wie.html"> WIE </a></li>
+<li><a href="gini.html"> GINI </a></li>
+<li><a href="events.html"> Events </a></li>
+<li><a href="awards.html"> Awards </a></li>
+<li><a href="members.html"> Members </a></li>
+<li><a href="contact.html"> Contact </a></li>
+</ul>
+</div>
+</nav>
+</div>
+<!--navbar div end-->
+<div class="container" style="padding-top:100px;">
+<div class="row">
+<div class="col-lg-6">
+<img src="images/IEEE-NITK.png" class="logo img-responsive"/>
+<div style="margin-left:30px;">
+<font style="color:#18539b; font-size:36px; font-family:Calibri;">Welcome to IEEE NITK!</font><br />
+<a href="https://www.facebook.com/IEEENITK" class="fblink"><img src="images/fb.png" style="float:left;"><div style="margin-top:10px;">/IEEENITK</div></a>
+<div class="latest">
+<div class="latest-heading">
+Latest Updates
+</div>
+<hr style="border-color:#18539b; width:60%;" align="left" />
+<ul>
+<li>First Update
+<li>Second Update
+</ul>
+</div>
+</div>
+</div>
+<div class="col-lg-6 text-center">
+<div class="carousel slide text-center" id="screen-carousel-1" data-ride="carousel" data-interval="false">
+<div id="scaleteam">
+<div class="carousel-inner">
+<div class="item active">
+<img src="images/learn.jpg" class="img-responsive"><br />
+<h1><b>We learn.</b></h1>
+<h2>With regular seminars and workshops, there is no dearth of opportunities to learn new things.</h2>
+</div>
+<div class="item">
+<img src="images/teach.jpg" class="img-responsive"><br />
+<h1><b>We teach.</b></h1>
+<h2>At our chapter, there is a deep-rooted tradition of passing on what we've learnt to our juniors and fellow students.</h2>
+</div>
+<div class="item">
+<img src="images/create.jpg" class="img-responsive"><br />
+<h1><b>We create.</b></h1>
+<h2>Hand-in-hand with learning come ideas and innovation. At IEEE NITK, we create, innovate and apply.</h2>
+</div>
+<!--
+<a href="#screen-carousel-1" class="left carousel-control" data-slide="prev">
+<span class="glyphicon glyphicon-chevron-left"></span></a>
+<a href="#screen-carousel-1" class="right carousel-control" data-slide="next">
+<span class="glyphicon glyphicon-chevron-right"></span></a>-->
+</div></div>
+</div><!--carousel--->
+</div>
+</div><!--row-->
+</div><!--container-->
+<script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script>
+$(document).ready(function() {
+    $('.carousel').carousel({
+      interval: 4000
+    })
+  });
+</script>
+</body>
+</html>

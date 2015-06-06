@@ -1,0 +1,138 @@
+body
+{
+	background:url(../images/bg.jpg) no-repeat fixed;
+}
+
+/* Navbar properties*/
+.navbar
+{
+	background-color:#18539b!important;
+	border:none;
+	box-shadow:#333 0px 3px 3px;
+}
+.navbar > .navbar-collapse > .navbar-nav > li > a:hover
+{
+	background-color:#0f3666 !important;
+	color:#DDD;
+	-webkit-transition:ease-in 0.3s;
+	text-shadow:#003 2px 2px 2px;
+}
+
+.navbar .navbar-collapse .navbar-nav li.active a
+{
+	background-color:#0f3666 !important;
+	color:#DDD;
+	-webkit-transition:ease-in 0.3s;
+	text-shadow:#000 2px 2px 2px;
+}
+
+.navbar > .navbar-collapse > .navbar-nav > li > a
+{
+	background-color:#18539b !important;
+	color:#fff;
+	font-family:Agency FB;
+	font-size:22px !important;
+	font-weight:300;
+	-webkit-transition:ease-out 0.4s;
+}
+
+.navbar > .navbar-collapse > .navbar-nav > .dropdown > .dropdown-menu,.navbar > .navbar-collapse > .navbar-nav > .dropdown > .dropdown-menu >li >a
+ {
+	 border: none;
+	background-color:#0a4f9a;
+	color:#fff;
+    font-size: 18px !important;
+  }
+
+.navbar > .navbar-collapse > .navbar-nav > .dropdown > .dropdown-menu >li >a:hover
+{
+	background-color:#EEE;
+	color:#0a4f9a;
+}
+.navbar .navbar-header .navbar-toggle .icon-bar
+{
+	background-color:#fff;
+}
+.navbar .navbar-header .navbar-brand
+{
+	color:#fff;
+	font-size:24px;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+ }
+ 
+
+
+/* Navbar properties end */
+.logo
+{
+	padding:10px;
+}
+.item > img
+{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+.item > h1,.item > h2
+{
+	color:#18539b;
+}
+.item > h1
+{
+	font-size:40px;
+	font-family:Cambria;
+}
+.item > h2
+{
+	font-size:20px;
+}
+.latest
+{
+	padding-top:20px;
+}
+.latest-heading
+{
+	font-size:24px;
+	color:#18539b;
+	margin-bottom:-10px;
+}
+.fblink
+{
+	text-decoration:none;
+	font-size:25px;
+}
+.fblink:hover
+{
+	text-decoration:none;
+	font-size:25px;
+}
+.fblink:focus
+{
+	text-decoration:none;
+	font-size:25px;
+}
+hr
+{
+	border-color:#18539b;
+}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+input[type=submit]
+{
+	background-color:#18539b;
+	color:#fff;
+	border-radius:10px;
+	border:none;
+	height:30px;
+	width:100px;
+}
+td
+{
+	padding:10px;
+}
