@@ -7,29 +7,22 @@
 
 <body>
 <?php
-include "classes/class.phpmailer.php";
-$mail = new PHPMailer();
-$mail->IsSMTP();
-$mail->SMTPDebug = 1;
-$mail->SMTPAuth = true; 
-$mail->SMTPSecure = 'ssl'; 
-$mail->Host = "smtp.gmail.com";
-$mail->Port = 465; // or 587
-$mail->IsHTML(true);
-$mail->Username = "convener.ieeenitk@gmail.com";
-$mail->Password = "ieeeisthenewsexy";
-$mail->SetFrom($_POST['email']);
-$mail->Subject = 'Message from'.$_POST['name'];
-$mail->Body = $_POST['message']."<br /> Sent by ".$_POST['name']."<br /> Contact number:".$_POST['mobile']."<br />Email id:".$_POST['email'];
-$mail->AddAddress("convener.ieeenitk@gmail.com");
- if(!$mail->Send()){
-	echo "Mailer Error: " . $mail->ErrorInfo;
-	echo '<script>setTimeout(function(){window.location.assign("http://google.co.in")},4000);</script>';
-}
-else{
-	echo "Message has been sent";
-	echo '<script>setTimeout(function(){window.location.assign("http://google.co.in")},4000);</script>';
-}
+$to="rajayuv@gmail.com";
+$subject="Mail from ".$_POST["name"];
+$message=$_POST["message"]."<br>".$_POST["name"]."<br>".$_POST["mobile"];
+ $headers  = 'MIME-Version: 1.0' . "\r\n";
+$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
+$headers .= "From:".$_POST["email"] . "\r\n";
+ if(mail($to,$subject,$message,$headers))
+      {
+echo 'Sent!';
+echo '<script>setTimeout(function(){window.location.assign("http://ewh.ieee.org/sb/bangalore/nitk/contact.html")},4000);</script>';
+	  }
+	  else
+	  {
+		  echo 'not sent!';
+echo '<script>setTimeout(function(){window.location.assign("http://ewh.ieee.org/sb/bangalore/nitk")},4000);</script>';
+	  }
 ?>
 </body>
 </html>

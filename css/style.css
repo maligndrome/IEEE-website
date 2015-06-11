@@ -1,6 +1,7 @@
 body
 {
-	background:url(../images/bg.jpg) no-repeat fixed;
+	background:url(../images/bg.jpg) no-repeat center center fixed;
+  background-size: cover;
 }
 
 /* Navbar properties*/
@@ -30,7 +31,7 @@ body
 {
 	background-color:#18539b !important;
 	color:#fff;
-	font-family:Agency FB;
+	font-family:Calibri;
 	font-size:22px !important;
 	font-weight:300;
 	-webkit-transition:ease-out 0.4s;
@@ -104,6 +105,10 @@ body
 	text-decoration:none;
 	font-size:25px;
 }
+.fblink > img
+{
+		padding-right:10px;
+}
 .fblink:hover
 {
 	text-decoration:none;
@@ -140,3 +145,18 @@ a:hover,a:focus
 {
 	text-decoration:none;
 }
+
+.sliderbtn
+{
+	width:20px;
+	height:20px;
+	border-radius:10px;
+	display:inline-block;
+	background-color:rgba(153,153,153,0.8);
+}
+.sliderbtn >a
+{
+	padding-left:5px;
+	color:#FFF;
+}
+	
