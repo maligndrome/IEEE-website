@@ -159,4 +159,70 @@ a:hover,a:focus
 	padding-left:5px;
 	color:#FFF;
 }
-	
+input.cf-ip
+{
+	border-radius:5px;
+	border:#ccc solid 1px;
+	height:35px;
+	width:100%;
+	box-shadow:
+	inset 0 0 8px #ccc;
+	outline:none;
+	padding-left:7px;
+}
+textarea.cf-ip
+{
+	padding:7px;
+	border-radius:5px;
+	border:#ccc solid 1px;
+	width:100%;
+	resize:none;
+	height:150px;
+	box-shadow:
+	inset 0 0 8px #ccc;
+	outline:none;
+}
+textarea.cf-ip:focus,input.cf-ip:focus
+{
+	outline:none;
+	border:#66F solid 2px;
+	box-shadow:
+	inset 0 0 16px #CCC;
+}
+textarea.cf-ip::-webkit-input-placeholder
+{
+	font-size:14px;
+}
+
+textarea.cf-ip:-ms-input-placeholder
+{
+	font-size:14px;
+}
+textarea.cf-ip::-moz-placeholder
+{
+	font-size:14px;
+}
+input.cf-ip::-webkit-input-placeholder
+{
+	font-size:14px;
+}
+
+input.cf-ip:-ms-input-placeholder
+{
+	font-size:14px;
+}
+input.cf-ip::-moz-placeholder
+{
+	font-size:14px;
+}
+.contactform-table
+{
+	margin-left:auto;
+	margin-right:auto;
+	width:80%;
+	min-width:270px;
+}
+.contactform-table td.ip-field
+{
+	width:75%
+}

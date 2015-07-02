@@ -11,48 +11,7 @@
 </head>
 
 <body>
-<!--navbar div-->
-<div class="container">
-<nav class="navbar navbar-fixed-top" id="navigation">
-<div class="navbar-header">
-<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
-<span class="icon-bar" style="color:#fff"></span>
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-</button>
-<div class="navbar-brand">
-<img src="images/ieee-logo.png" height="30px" style="margin-top:-5px; float:left;">
-
-
-</div>
-</div>
-<div class="collapse navbar-collapse" id="navbar-collapse">
-<ul class="nav navbar-nav">
-<li>&nbsp;&nbsp;&nbsp;</li>
-<li><a href="index.html"> Home </a></li>
-<li><a href="about.html"> About </a></li>
-<li class="dropdown">
-          <a class="dropdown-toggle" data-toggle="dropdown" href="#"> SIGs 
-          <span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <li><a href="python.html">Python</a></li> 
-            <li><a href="diode.html">Diode</a></li>
-            <li><a href="piston.html">Piston</a></li>  
- </ul>
-</li>
-<li><a href="sight.html"> SIGHT </a></li>
-<li><a href="epics.html"> EPICS </a></li>
-<li><a href="wie.html"> WIE </a></li>
-<li><a href="gini.html"> GINI </a></li>
-<li><a href="events.html"> Events </a></li>
-<li class="active"><a href="awards.html"> Awards </a></li>
-<li><a href="members.html"> Members </a></li>
-<li><a href="contact.html"> Contact </a></li>
-</ul>
-</div>
-</nav>
-</div>
-<!--navbar div end-->
+<?php include 'navbar.php'; ?>
 <div class="container" style="padding-top:100px;">
 <div class="row">
 <div class="col-lg-1"></div>
@@ -69,7 +28,7 @@ The Best Student Branch Award</font><br>
 <font style="font-size:15px; color:#777;"> 2010 for technical cooperation between borders- IEEE Karachi Section, Pakistan</font><br>
 <br>
 
-<font style="font-size:18px; color:#18539b;">NITK IEEE is also recipient of the following awards :</font><br>
+<font style="font-size:18px; color:#18539b;">IEEE NITK is also recipient of the following awards :</font><br>
 <ul>
 <li>R10 IEEE Regional Exemplary Student Branch Award
 
@@ -103,7 +62,7 @@ The Best Student Branch Award</font><br>
 <div class="row">
 <div class="col-lg-12 text-center" style="padding-top:20px;">
 <hr>
-&copy;IEEE NITK, 2015
+&copy;IEEE NITK, 2015 | <a href="nitk.ac.in">Visit NITK</a>
 </div>
 </div><!--container-->
 <script src="js/jquery.min.js"></script>
@@ -113,5 +72,6 @@ $(document).ready(function(){
     $('[data-toggle="tooltip"]').tooltip(); 
 });
 </script>
+<script src="js/main.js"></script>
 </body>
 </html>
