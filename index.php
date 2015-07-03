@@ -29,6 +29,7 @@ Latest Updates
 </div>
 <hr style="border-color:#18539b; width:60%;" align="left" />
 <ul>
+<li><a href="oddsem.docx" download>Odd sem 2015 schedule</a>
 <li>IEEE NITK now has a 3D printer in it's inventory!
 <li>IEEE Summer projects are in full swing.
 </ul>
