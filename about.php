@@ -21,7 +21,7 @@
 <hr>
 <!--<img src="images/ieee_cs.png" style="float:left; padding-right:20px;">-->
 <font style="font-size:18px">
-The IEEE is the world’s largest professional association advancing innovation and technological excellence for the benefit of humanity. IEEE and its members inspire a global community to innovate for a better tomorrow through its highly-cited publications, conferences, technology standards, and professional and educational activities. IEEE is the trusted “voice” for engineering, computing and technology information around the globe. 
+<img src="images/ieee-r10.png" class="img-responsive" style="float:left" />The IEEE is the world's largest professional association advancing innovation and technological excellence for the benefit of humanity. IEEE and its members inspire a global community to innovate for a better tomorrow through its highly-cited publications, conferences, technology standards, and professional and educational activities. IEEE is the trusted "voice" for engineering, computing and technology information around the globe. 
 <br /><br>
 
 The IEEE is incorporated under the Not-for-Profit Corporation Law of the state of New York. It was formed in 1963 by the merger of the Institute of Radio Engineers (IRE, founded 1912) and the American Institute of Electrical Engineers (AIEE, founded 1884).

@@ -8,6 +8,7 @@
 <link rel="stylesheet" href="css/bootstrap.min.css">
 <link rel="stylesheet" href="css/font-awesome/css/font-awesome.css">
 <link rel="stylesheet" href="css/style.css">
+
 </head>
 
 <body>
@@ -15,7 +16,7 @@
 <div class="container" style="padding-top:100px;">
 <div class="row">
 <div class="col-lg-6">
-<img src="images/IEEE-NITK.png" class="logo img-responsive"/>
+<img id="ieee" src="images/logo-ieee.png" class="logo img-responsive" style="display:inline-block"/>
 <div style="margin-left:30px;">
 <font style="color:#18539b; font-size:36px; font-family:Calibri;">Welcome to IEEE NITK!</font><br />
 <font style="font-size:30px; color:#18539b;">
@@ -25,13 +26,13 @@
 </font><br>
 <div class="latest">
 <div class="latest-heading">
-Latest Updates
+Announcements
 </div>
 <hr style="border-color:#18539b; width:60%;" align="left" />
 <ul>
 <li><a href="oddsem.docx" download>Odd sem 2015 schedule</a>
-<li>IEEE NITK now has a 3D printer in it's inventory!
-<li>IEEE Summer projects are in full swing.
+<li>IEEE NITK has added a 3D printer to it's inventory.
+<li>IEEE summer project members are requested to submit reports.
 </ul>
 </div>
 </div>
@@ -132,7 +133,9 @@ Latest Updates
 $(document).ready(function() {
     $('#screen-carousel-1').carousel({
       interval: 4000
-    })
+    });
+	$('#ieee').addClass('init');
+	$('#nitk').addClass('init');
   });
 </script>
 <script src="js/main.js"></script>

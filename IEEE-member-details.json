@@ -1,0 +1,256 @@
+{
+    "members": [
+        {
+            "id": "Akanksha",
+            "name": "Akanksha Kumari",
+            "interests": "Web Development (Django), High Performance Computing, Networking and Communication.",
+            "email": "akankshakmr174@gmail.com",
+            "linkedin": "https://in.linkedin.com/pub/akanksha-kumari/97/6a0/361",
+            "github": "https://github.com/akankshakmr174"
+        },
+        {
+            "id": "Akash",
+            "name": "Akash Suresh",
+            "interests": "Data Analytics, Game Development",
+            "email": "akash.s.2014@ieee.org",
+            "linkedin": "https://in.linkedin.com/in/sureshakash"
+        },
+        {
+            "id": "Akshay",
+            "name": "Akshay Kumar V",
+            "interests": "Fluid Mechanics, Control Systems, Mechatronics.",
+            "email": "akshayvkumar1995@gmail.com",
+            "linkedin": "https://in.linkedin.com/pub/akshay-kumar/7a/5a/53a"
+        },
+        {
+            "id": "Anjana",
+            "name": "Anjana Thimmaiah",
+            "interests": "Simulation in fluid mechanics, pertaining to reactor systems and modelling multiphase flow systems, using ANSYS Fluent (currently).",
+            "email": "anjanathimmaiah1995@gmail.com",
+            "linkedin": "https://in.linkedin.com/pub/anjana-thimmaiah/87/942/823"
+        },
+        {
+            "id": "Chaitali",
+            "name": "Chaitali Kulkarni",
+            "interests": "Blending engineering concepts with other fields like psychology, law,etc Analog, Communication, Natural Language Processing. Debating, Writing, Reading.",
+            "email": "chaitalikulkarni.13@gmail.com"
+        },
+        {
+            "id": "Gaurav",
+            "name": "Gaurav S Hegde",
+            "interests": "Interested in implementing all fields of engineering. Loves novelty and adventure.",
+            "email": "grv.hegde@gmail.com"
+        },
+        {
+            "id": "Gururaj",
+            "name": "Gururaj K",
+            "interests": "Digital Signal Processing, Machine Learning, Digital System Design",
+            "email": "gururajk53@gmail.com"
+        },
+        {
+            "id": "Harshesh",
+            "name": "Harshesh Gokani",
+            "interests": "Interested in multidisciplinary projects involving mechanical and electronic concepts. Would love to be part of projects related to automation and robotics design.",
+            "email": "harshesh1502@gmail.com"
+        },
+        {
+            "id": "Krathika",
+            "name": "Krathika Bhat",
+            "interests": "My interests are nanotechnology and biotechnology. I have worked on projects involving nano-particle synthesis and optimization of growth of cell culture.",
+            "email": "krathika.29@gmail.com",
+            "linkedin": "in.linkedin.com/in/kra777"
+        },
+        {
+            "id": "Krishna",
+            "name": "Krishna Kinnal",
+            "interests": "High Performance Computing, Competitive Coding, Film Analysis, Travelling",
+            "email": "krishnakinnal@gmail.com"
+        },
+        {
+            "id": "Namrata",
+            "name": "Namrata Kogalur",
+            "interests": "Power electronics, renewable energy",
+            "email": "namrata.kogalur@gmail.com"
+        },
+        {
+            "id": "Nitin",
+            "name": "Nitin Srinath",
+            "interests": "Mechanism and mechanical component design, IC engines",
+            "email": "nitin.s.2014@ieee.org",
+            "linkedin": "in.linkedin.com/in/NitinSrinath"
+        },
+        {
+            "id": "Palash",
+            "name": "Palash Shah",
+            "interests": "Embedded systems, Wireless sensor Networks, Internet Of Things, Football.",
+            "email": " psp.palash@gmail.com",
+            "linkedin": "https://in.linkedin.com/pub/palash-shah/a5/518/6b2"
+        },
+        {
+            "id": "Pavan",
+            "name": "Pavan C M",
+            "interests": "Signal and Image processing",
+            "email": "pavancm8@gmail.com",
+            "linkedin": "http://in.linkedin.com/pub/pavan-chennagiri-m/80/338/758"
+        },
+        {
+            "id": "Rohit",
+            "name": "Rohit Kumar",
+            "interests": "Mechatronics, simulations and aerodynamics.",
+            "email": "rohit.kumar.in@ieee.org"
+        },
+        {
+            "id": "Saba",
+            "name": "Saba A. Hussain",
+            "interests": "Signal and Image Processing, Analog and Digital Electronics.",
+            "email": "sabaans10@gmail.com"
+        },
+        {
+            "id": "Sachin",
+            "name": "Sachin S Upadhya",
+            "interests": "Image Processing, Embedded(MSP and Raspberry Pi), FPGA, Football, Dance, Trekking",
+            "email": "Sachin.Upadhya.2014@ieee.org",
+            "linkedin": "https://in.linkedin.com/pub/sachin-upadhya/b9/459/9b5"
+        },
+        {
+            "id": "Sahan",
+            "name": "Sahan Alva",
+            "interests": "Technical-Machine learning and Pattern recognition, Artificial Intelligence,Control of autonomous robots, Autonomous navigation of flying robots and drones, Control Systems and Statistics. Non Technical- Aerial and landscape photography, Tennis ",
+            "email": "sahanalva6@gmail.com",
+            "linkedin": "https://in.linkedin.com/pub/sahan-alva/98/673/4a5"
+        },
+        {
+            "id": "Satyesh",
+            "name": "Satyesh Shanker Awasthi",
+            "interests": "Designing, Manufacturing, Mechatronics, Badminton, Reading and learning any new thing I come across however trivial it may seem.",
+            "email": "satyesh.awasthi.1996@ieee.org"
+        },
+        {
+            "id": "Shravya",
+            "name": "Shravya K.S",
+            "interests": " Cloud Computing,Operating Systems, Data Structures and Algorithms, Android App Development",
+            "email": "shravya.ks0@gmail.com"
+        },
+        {
+            "id": "Shreyas",
+            "name": "Shreyas s Hegde",
+            "interests": "My basic interest is computational fluid dynamics(CFD) which includes areas of turbines, aerodynamics, nozzle flow, Jet propulsion, Gas turbine engines and also its applications in biomedical engineering.",
+            "email": "shreyas.hegde.2014@ieee.org"
+        },
+        {
+            "id": "Siddharth",
+            "name": "Siddharth Dhananjay",
+            "interests": "Materials Science, Nanotechnology, Computational Materials Science",
+            "email": "siddharth.dhananjay.in@ieee.org"
+        },
+        {
+            "id": "Sneha",
+            "name": "Sneha V",
+            "interests": "Embedded and Digital Signal Processing(DSP)",
+            "email": "snehavraju@gmail.com"
+        },
+        {
+            "id": "Srinidhi",
+            "name": "Srinidhi S",
+            "interests": "Math, Physics, Robotics, Control Systems, Mechatronic System Design, Gaming and Cricket.",
+            "email": "S.Bharadwaj.1995@ieee.org",
+            "linkedin": "in.linkedin.com/in/srinidhisbharadwaj"
+        },
+        {
+            "id": "Suchet",
+            "name": "Sucheth S Kuncham",
+            "interests": "Analog electronics mainly control theory and Signal Processing",
+            "email": "kunchamsucheth@gmail.com"
+        },
+        {
+            "id": "Suraj",
+            "name": "Suraj B Y",
+            "interests": "My interests lie in the fields of Signal Processing, Machine learning.",
+            "email": "bysrjby@gmail.com",
+            "linkedin": "in.linkedin.com/pub/suraj-b-y/aa/751/310"
+        },
+        {
+            "id": "Vadiraja",
+            "name": "Vadiraja K",
+            "interests": "Data structures and Algorithms",
+            "email": "vadi.fedx@gmail.com",
+            "github": "https://github.com/vadi95"
+        },
+        {
+            "id": "Vivek",
+            "name": "Vivek N",
+            "interests": "Design and Production, Automobiles, Aerodynamics, Aircrafts, and Mechatronics",
+            "email": "vivekmech.nit@gmail.com"
+        },
+        {
+            "id": "Yuvraj",
+            "name": "Yuvraj Singh Bawa",
+            "interests": "Maths, Programming, Robotics, Machine learning, Image processing,  Web and Android app development.",
+            "email": "y.s.bawa@ieee.org",
+            "linkedin": "https://in.linkedin.com/in/yuvrajsinghbawa"
+        }
+    ],
+    "core": [
+        {
+            "id": "Anand",
+            "name": "Anand Gopalakrishnan",
+            "interests": "Signal Processing in general, well versed in specifically Image Processing, Speech Processing",
+            "email": "cr7anand@gmail.com"
+        },
+        {
+            "id": "Arya",
+            "name": "Arya Aishwarya",
+            "interests": "Embedded System, Image Processing",
+            "email": "arya.aishwarya81@gmail.com"
+        },
+        {
+            "id": "Ayush",
+            "name": "Ayush Malewar",
+            "interests": "Design of Mechanical Systems and mechanical related Softwares",
+            "email": "ayushmalewar@gmail.com",
+            "linkedin": "https://in.linkedin.com/in/ayushmalewar"
+        },
+        {
+            "id": "Bhagyashree",
+            "name": "Bhagyashree Suresh",
+            "interests": "VLSI , Embedded Systems , Communication Networks, MEMS",
+            "email": "bhagyashree94@gmail.com",
+            "linkedin": "https://in.linkedin.com/pub/bhagyashree-suresh/a7/b98/a93"
+        },
+        {
+            "id": "Bhuvan",
+            "name": "Bhuvan M S",
+            "interests": "Big Data Analytics, Natural Language Processing, Parallel and Distributed Computing",
+            "email": "msbhuvanbhuvi@gmail.com",
+            "linkedin": "https://in.linkedin.com/pub/bhuvan-m-s/87/a50/586",
+            "github": "https://github.com/bhuvi3"
+        },
+        {
+            "id": "Navaneet",
+            "name": "Navaneet K L",
+            "interests": "Signal Processing, primarily Image Processing, Object recognition, Computer Vision",
+            "email": "klnavaneet@gmail.com",
+            "linkedin": "in.linkedin.com/in/navaneetkl"
+        },
+        {
+            "id": "Nimisha",
+            "name": "Nimisha Sharath",
+            "interests": "Machine Learning, Game Theory, Optimization. Dreaming an AI dream.",
+            "email": "nimisharath1994@gmail.com",
+            "linkedin": "www.linkedin.com/pub/nimisha-sharath/72/55/246",
+            "github": "www.github.com/nim94sha"
+        },
+        {
+            "id": "Sandeep",
+            "name": "Sandeep Nayak",
+            "interests": " Intersested in Aerodynamics , MAV , Insect dynamics, CFD , Mechanism , Robotics , Inverse kinematics , Additive Manufacturing",
+            "email": "sandeepnayak1.618@gmail.com"
+        },
+        {
+            "id": "Supriya",
+            "name": "Supriya N",
+            "interests": "Signal processing and bio-medical applications, Analog electronics and Control systems. ",
+            "email": "supriyanagesh94@gmail.com"
+        }
+    ]
+}
