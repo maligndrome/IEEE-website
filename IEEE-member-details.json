@@ -1,13 +1,6 @@
 {
     "members": [
-        {
-            "id": "Akanksha",
-            "name": "Akanksha Kumari",
-            "interests": "Web Development (Django), High Performance Computing, Networking and Communication.",
-            "email": "akankshakmr174@gmail.com",
-            "linkedin": "https://in.linkedin.com/pub/akanksha-kumari/97/6a0/361",
-            "github": "https://github.com/akankshakmr174"
-        },
+        
         {
             "id": "Akash",
             "name": "Akash Suresh",
@@ -21,6 +14,12 @@
             "interests": "Fluid Mechanics, Control Systems, Mechatronics.",
             "email": "akshayvkumar1995@gmail.com",
             "linkedin": "https://in.linkedin.com/pub/akshay-kumar/7a/5a/53a"
+        },
+		{
+            "id": "Anand",
+            "name": "Anand Gopalakrishnan",
+            "interests": "Signal Processing in general, well versed in specifically Image Processing, Speech Processing",
+            "email": "cr7anand@gmail.com"
         },
         {
             "id": "Anjana",
@@ -98,12 +97,6 @@
             "name": "Rohit Kumar",
             "interests": "Mechatronics, simulations and aerodynamics.",
             "email": "rohit.kumar.in@ieee.org"
-        },
-        {
-            "id": "Saba",
-            "name": "Saba A. Hussain",
-            "interests": "Signal and Image Processing, Analog and Digital Electronics.",
-            "email": "sabaans10@gmail.com"
         },
         {
             "id": "Sachin",
@@ -191,31 +184,46 @@
         }
     ],
     "core": [
-        {
-            "id": "Anand",
-            "name": "Anand Gopalakrishnan",
-            "interests": "Signal Processing in general, well versed in specifically Image Processing, Speech Processing",
-            "email": "cr7anand@gmail.com"
+		{
+            "id": "Akanksha",
+            "name": "Akanksha Kumari",
+            "interests": "Web Development (Django), High Performance Computing, Networking and Communication.",
+            "email": "akankshakmr174@gmail.com",
+            "linkedin": "https://in.linkedin.com/pub/akanksha-kumari/97/6a0/361",
+            "github": "https://github.com/akankshakmr174",
+			"position":"Computer Society Treasurer"
+        },
+		{
+            "id": "Anshej",
+            "name": "Anshej Habin",
+            "interests": "Design & Analysis softwares, Automobile Suspension. Product planning, Financial econometric modelling",
+            "email": "habinanshej2@ieee.org",
+            "linkedin": "https://www.linkedin.com/in/habin",
+            "github": "https://github.com/akankshakmr174",
+			"position":"Convener"
         },
         {
             "id": "Arya",
             "name": "Arya Aishwarya",
             "interests": "Embedded System, Image Processing",
-            "email": "arya.aishwarya81@gmail.com"
+            "email": "arya.aishwarya81@gmail.com",
+			"position":"Vice Chairperson"
         },
         {
             "id": "Ayush",
             "name": "Ayush Malewar",
             "interests": "Design of Mechanical Systems and mechanical related Softwares",
             "email": "ayushmalewar@gmail.com",
-            "linkedin": "https://in.linkedin.com/in/ayushmalewar"
+            "linkedin": "https://in.linkedin.com/in/ayushmalewar",
+			"position":"Engineer Joint Convener"
         },
         {
             "id": "Bhagyashree",
             "name": "Bhagyashree Suresh",
-            "interests": "VLSI , Embedded Systems , Communication Networks, MEMS",
+            "interests": "VLSI, Embedded Systems, Communication Networks, MEMS",
             "email": "bhagyashree94@gmail.com",
-            "linkedin": "https://in.linkedin.com/pub/bhagyashree-suresh/a7/b98/a93"
+            "linkedin": "https://in.linkedin.com/pub/bhagyashree-suresh/a7/b98/a93",
+			"position":"Women in Engineering Chair"
         },
         {
             "id": "Bhuvan",
@@ -223,14 +231,16 @@
             "interests": "Big Data Analytics, Natural Language Processing, Parallel and Distributed Computing",
             "email": "msbhuvanbhuvi@gmail.com",
             "linkedin": "https://in.linkedin.com/pub/bhuvan-m-s/87/a50/586",
-            "github": "https://github.com/bhuvi3"
+            "github": "https://github.com/bhuvi3",
+			"position":"Secretary and Project Coordinator"
         },
         {
             "id": "Navaneet",
             "name": "Navaneet K L",
             "interests": "Signal Processing, primarily Image Processing, Object recognition, Computer Vision",
             "email": "klnavaneet@gmail.com",
-            "linkedin": "in.linkedin.com/in/navaneetkl"
+            "linkedin": "in.linkedin.com/in/navaneetkl",
+			"position":"Circuits and Systems Society Secretary"
         },
         {
             "id": "Nimisha",
@@ -238,19 +248,29 @@
             "interests": "Machine Learning, Game Theory, Optimization. Dreaming an AI dream.",
             "email": "nimisharath1994@gmail.com",
             "linkedin": "www.linkedin.com/pub/nimisha-sharath/72/55/246",
-            "github": "www.github.com/nim94sha"
+            "github": "www.github.com/nim94sha",
+			"position":"GINI Hub Leader and Talks Coordinator"
+        },
+		{
+            "id": "Saba",
+            "name": "Saba A. Hussain",
+            "interests": "Signal and Image Processing, Analog and Digital Electronics.",
+            "email": "sabaans10@gmail.com",
+			"position":"Circuits and Systems Society Treasurer"
         },
         {
             "id": "Sandeep",
             "name": "Sandeep Nayak",
-            "interests": " Intersested in Aerodynamics , MAV , Insect dynamics, CFD , Mechanism , Robotics , Inverse kinematics , Additive Manufacturing",
-            "email": "sandeepnayak1.618@gmail.com"
+            "interests": "Intersested in Aerodynamics, MAV, Insect dynamics, CFD , Mechanism, Robotics, Inverse kinematics, Additive Manufacturing",
+            "email": "sandeepnayak1.618@gmail.com",
+			"position":"3D Printer Head and Piston Projects Coordinator"
         },
         {
             "id": "Supriya",
             "name": "Supriya N",
-            "interests": "Signal processing and bio-medical applications, Analog electronics and Control systems. ",
-            "email": "supriyanagesh94@gmail.com"
+            "interests": "Signal processing and bio-medical applications, Analog electronics and Control systems.",
+            "email": "supriyanagesh94@gmail.com",
+			"position":"Circuit and Systems Society Chair"
         }
     ]
 }

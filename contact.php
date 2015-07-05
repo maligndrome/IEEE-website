@@ -78,7 +78,7 @@ Connect with us!
 <a href="https://www.linkedin.com/in/ieeenitk"><i class="fa fa-linkedin-square" style=" color:#18539b;"></i></a>
 </font><br>
 <br>
-To contact a member, go to the <b><a href="members.php">members page</a></b>.
+To contact a member, go to the <b><a href="team.php">team page</a></b>.
 </div>
 </div><!--row-->
 <div class="row">

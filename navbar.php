@@ -33,7 +33,7 @@
 <li><a href="gini.php"> GINI </a></li>
 <li><a href="events.php"> Events </a></li>
 <li><a href="awards.php"> Awards </a></li>
-<li><a href="members.php"> Members </a></li>
+<li><a href="team.php"> Team </a></li>
 <li><a href="gallery.php"> Gallery </a></li>
 <li><a href="contact.php"> Contact </a></li>
 </ul>

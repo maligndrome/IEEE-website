@@ -62,9 +62,38 @@ a:hover
 <div class="col-lg-1"></div>
 <div class="col-lg-10">
 
-<font style="font-family:Cambria; color:#18539b; font-size:30px;"><b>Members</b></font>
+<font style="font-family:Cambria; color:#18539b; font-size:30px;"><b>Team</b></font>
 <hr>
-The following is a listing of the current executive members of IEEE NITK.<br/>
+<h3> Faculty advisors</h3><hr /><br />
+<div class="row text-center">
+<div class="col-lg-3">
+<img src="images/members/sumam_david.jpg" class="img-responsive img-circle" style="max-height:150px; margin: 0 auto;"/><br />
+<b>Dr. Sumam David</b><br>
+<i>Branch advisor</i><br>
+<a href="http://sumam.nitk.ac.in/">Web page</a>
+</div>
+
+<div class="col-lg-3">
+<img src="images/members/annappa.jpg" class="img-responsive img-circle"  style="max-height:150px; margin: 0 auto;"/><br />
+<b>Dr. Annappa</b><br>
+<i>Python faculty advisor</i><br>
+<a href="http://cse.nitk.ac.in/faculty/annappa">Web page</a>
+</div>
+
+<div class="col-lg-3">
+<img src="images/members/msbhat.png" class="img-responsive img-circle"  style="max-height:150px; margin: 0 auto;"/><br />
+<b>Dr. M. S. Bhat</b><br>
+<i>Diode faculty advisor</i><br>
+<a href="http://ece.nitk.ac.in/faculty/m-shankaranarayana-bhat">Web page</a>
+</div>
+
+<div class="col-lg-3">
+<img src="images/members/rkini.jpg" class="img-responsive img-circle"  style="max-height:150px; margin: 0 auto;"/><br />
+<b>Dr. Ramesh Kini</b><br>
+<i>RAS faculty advisor</i><br>
+<a href="http://ece.nitk.ac.in/faculty/ramesh-kini-m">Web page</a>
+</div>
+</div>
 
 <div id="id01"></div>
 </div>
@@ -141,12 +170,21 @@ function myFunction(arr) {
 function member_modal_trigger(x,y)
 {
 	var _details;
-	if(y=='members')
+	var _img='';
+	var xmlhttp2 = new XMLHttpRequest();
+	xmlhttp2.onreadystatechange = function() {
+    if (xmlhttp2.readyState == 4 && xmlhttp2.status == 200) {
+        var temp_img = xmlhttp2.responseText;
+		if(temp_img!='')
+			_img = '<img src="' + temp_img + '" class="img-responsive img-circle" style="margin-left:auto; margin-right:auto;"/>';
+		else
+		    _img = '';
+		if(y=='members')
 	for(i = 0; i < _array.members.length; i++)
 	{
 		if(_array.members[i].id==x)
 		{
-        _details = "<h1>" + _array.members[i].name + "</h1> <br /> <b>Interests</b><br />" + _array.members[i].interests + "<br />";
+        _details = _img+"<h1>" + _array.members[i].name + "</h1><b>Interests</b><br />" + _array.members[i].interests + "<br />";
 		var links= '<font style="font-size:25px">'+(_array.members[i].email?'<a href="' + _array.members[i].email + '"><i class="fa fa-envelope"></i></a>&nbsp;':'')+(_array.members[i].github?'<a href="' + _array.members[i].github + '"><i class="fa fa-github"></i></a>&nbsp;':'')+(_array.members[i].linkedin?'<a href="' + _array.members[i].linkedin + '"><i class="fa fa-linkedin-square"></i></a>':'')+'</font>';
 		if(links)
 		_details+=links;
@@ -160,7 +198,7 @@ function member_modal_trigger(x,y)
 	{
 		if(_array.core[i].id==x)
 		{
-        _details = "<h1>" + _array.core[i].name + "</h1> <br /> <b>Interests</b><br />" + _array.core[i].interests + "<br />";
+        _details = _img + "<h1>" + _array.core[i].name + "</h1><h3>"+ _array.core[i].position + "</h3> <b>Interests</b><br />" + _array.core[i].interests + "<br />";
 		var links= '<font style="font-size:25px">'+(_array.core[i].email?'<a href="' + _array.core[i].email + '"><i class="fa fa-envelope"></i></a>&nbsp;':'')+(_array.core[i].github?'<a href="' + _array.core[i].github + '"><i class="fa fa-github"></i></a>&nbsp;':'')+(_array.core[i].linkedin?'<a href="' + _array.core[i].linkedin + '"><i class="fa fa-linkedin-square"></i></a>':'')+'</font>';
 		if(links)
 		_details+=links;
@@ -171,6 +209,11 @@ function member_modal_trigger(x,y)
     }
 	document.getElementById('member-details').innerHTML = _details;
 	$('#member_modal').modal('show');
+    }
+}
+xmlhttp2.open("GET","getimage.php?q="+x, true);
+xmlhttp2.send();
+	
 }
 </script>
 </body>
