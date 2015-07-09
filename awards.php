@@ -42,16 +42,16 @@ The Best Student Branch Award</font><br>
 <font style="font-size:18px; color:#18539b;">Achievements</font>
 <ul>
       <li>Interactive Environment Education Platform (IEEP) 
-<ul><li>The Darrel Chong Student Activity Award – Silver
+<ul><li>The Darrel Chong Student Activity Award - Silver
 <li>IEEP was ranked among top 10 projects in IBM-IEEE Smarter Planet Contest.
 <li>Deployed in 47 countries
 </ul>
-<li>‘Project Jagriti: Crowdsourced Child Abuse Reporting’ has been accepted for presentation at the Global Humanitarian Technology Conference 2014, Silicon Valley, USA. 
+<li>'Project Jagriti: Crowdsourced Child Abuse Reporting' has been accepted for presentation at the Global Humanitarian Technology Conference 2014, Silicon Valley, USA. 
       <li>Quad copter awarded, best student enterprise award.
 <li>Remotely Controlled Efficient Lighting  won the 1st Position in Lighting Design track in the Electronics For You (EFY) Design Contest.
-<li>Smart Lighting – won TI ADC.
-<li>Research paper titled ‘Timbre modelling of pitched musical instruments from an analysis synthesis perspective’ by IEEE student members won the Best Paper Award at the IEEE BRV Vardhan Conference 2013 
-<li>‘Music transcription in Carnatic Music through classification of Gamaka’ was presented at Midwest Music Information Retrieval Gathering June 14, 2014 - Evanston, IL 
+<li>Smart Lighting - won TI ADC.
+<li>Research paper titled 'Timbre modelling of pitched musical instruments from an analysis synthesis perspective' by IEEE student members won the Best Paper Award at the IEEE BRV Vardhan Conference 2013 
+<li>'Music transcription in Carnatic Music through classification of Gamaka' was presented at Midwest Music Information Retrieval Gathering June 14, 2014 - Evanston, IL 
 </ul>
 </font>
 </div>

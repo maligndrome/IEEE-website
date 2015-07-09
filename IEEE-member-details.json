@@ -11,7 +11,7 @@
         {
             "id": "Akshay",
             "name": "Akshay Kumar V",
-            "interests": "Fluid Mechanics, Control Systems, Mechatronics.",
+            "interests": "Computational Fluid Dynamics, Control Systems, Mechatronic System Design, Astronomy and Particle Physics, Vector Mathematics. ",
             "email": "akshayvkumar1995@gmail.com",
             "linkedin": "https://in.linkedin.com/pub/akshay-kumar/7a/5a/53a"
         },
@@ -28,6 +28,22 @@
             "email": "anjanathimmaiah1995@gmail.com",
             "linkedin": "https://in.linkedin.com/pub/anjana-thimmaiah/87/942/823"
         },
+		{
+			"id": "Ankit",
+            "name": "Ankit Tripathi",
+            "interests": "Machine Learning and Pattern Recognition. Also, I have explored System Virtualization for Cloud.",
+            "email": "ankit.tripathi12@gmail.com",
+			"github":"https://github.com/midnitekoder",
+            "linkedin": "https://in.linkedin.com/pub/ankit-tripathi/87/a44/828"
+		},
+		{
+			"id": "Ashish",
+            "name": "Ashish Kedia",
+            "interests": "Databases, Data Structures and Algorithms",
+            "email": "ashish1294@gmail.com",
+			"github":"https://www.github.com/ashish1294",
+            "linkedin": "https://in.linkedin.com/in/ashish1294"
+		},
         {
             "id": "Chaitali",
             "name": "Chaitali Kulkarni",
@@ -71,6 +87,13 @@
             "interests": "Power electronics, renewable energy",
             "email": "namrata.kogalur@gmail.com"
         },
+		{
+			"id": "Mintu",
+            "name": "Mintu Jothish",
+            "interests": "Big Data Analytics, Distributed Computing,Data Mining, Java EE",
+            "email": "mintujot@ieee.org",
+            "linkedin":"https://www.linkedin.com/profile/view?id=189302612"
+		},
         {
             "id": "Nitin",
             "name": "Nitin Srinath",
@@ -142,6 +165,12 @@
             "interests": "Embedded and Digital Signal Processing(DSP)",
             "email": "snehavraju@gmail.com"
         },
+		{
+            "id": "Srajan",
+            "name": "Srajan Shetty",
+            "interests": "Nanotechnology, biochemistry,biofuels and energy",
+            "email": "shettysrajan1@gmail.com"
+        },
         {
             "id": "Srinidhi",
             "name": "Srinidhi S",
@@ -185,6 +214,14 @@
     ],
     "core": [
 		{
+			"id": "Abin",
+            "name": "Abin Alex Pothen",
+            "interests": "Non-linear controls",
+            "email": "abinalexpothen@gmail.com",
+            "linkedin": "in.linkedin.com/in/abinalexpothen",
+			"position":"SIGHT Chair"
+		},
+		{
             "id": "Akanksha",
             "name": "Akanksha Kumari",
             "interests": "Web Development (Django), High Performance Computing, Networking and Communication.",
@@ -199,7 +236,6 @@
             "interests": "Design & Analysis softwares, Automobile Suspension. Product planning, Financial econometric modelling",
             "email": "habinanshej2@ieee.org",
             "linkedin": "https://www.linkedin.com/in/habin",
-            "github": "https://github.com/akankshakmr174",
 			"position":"Convener"
         },
         {
@@ -233,6 +269,22 @@
             "linkedin": "https://in.linkedin.com/pub/bhuvan-m-s/87/a50/586",
             "github": "https://github.com/bhuvi3",
 			"position":"Secretary and Project Coordinator"
+        },
+		{
+            "id": "Karthik",
+            "name": "Karthik S",
+            "interests": "Open source, Programming Languages and Compilers, High Performance Computing",
+            "email": "karthik.senthil94@gmail.com",
+            "github": "https://github.com/karthiksenthil",
+			"position":"Computer Society Chair"
+        },
+		{
+            "id": "Narayan",
+            "name": "Narayan Sanjeev Chavan",
+            "interests": "Mechanical, Aerospace and Mechatronics ",
+            "email": "narayansc1994@gmail.com",
+            "linkedin": "in.linkedin.com/in/narayansanjeevchavan",
+			"position":"Piston Head"
         },
         {
             "id": "Navaneet",
@@ -271,6 +323,14 @@
             "interests": "Signal processing and bio-medical applications, Analog electronics and Control systems.",
             "email": "supriyanagesh94@gmail.com",
 			"position":"Circuit and Systems Society Chair"
+        },
+		{
+            "id": "Sushmita",
+            "name": "Sushmita Din K",
+            "interests": "Analog electronics,Signal Processing,Embedded Systems",
+            "email": "sushmitha.din6@gmail.com",
+            "linkedin": "https://in.linkedin.com/pub/sushmitha-din-k/b9/699/11",
+			"position":"Treasurer"
         }
     ]
 }

@@ -76,14 +76,14 @@ a:hover
 <div class="col-lg-3">
 <img src="images/members/annappa.jpg" class="img-responsive img-circle"  style="max-height:150px; margin: 0 auto;"/><br />
 <b>Dr. Annappa</b><br>
-<i>Python faculty advisor</i><br>
+<i>Computer Society faculty advisor</i><br>
 <a href="http://cse.nitk.ac.in/faculty/annappa">Web page</a>
 </div>
 
 <div class="col-lg-3">
 <img src="images/members/msbhat.png" class="img-responsive img-circle"  style="max-height:150px; margin: 0 auto;"/><br />
 <b>Dr. M. S. Bhat</b><br>
-<i>Diode faculty advisor</i><br>
+<i>CAS faculty advisor</i><br>
 <a href="http://ece.nitk.ac.in/faculty/m-shankaranarayana-bhat">Web page</a>
 </div>
 
