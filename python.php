@@ -35,11 +35,6 @@
 <font style="color:#18539b; font-size:30px;">Projects</font><br>
 <br>
 </font>
-<font style="color:#18539b; font-size:18px;"><b>
-Music in Learning for the blind</b></font><br>
-
-As blind people have a heightened sense of hearing, this project will hope to find out if any particular type of music is beneficial to the blind as a learning enhancer. It will make use of existing APIs for sound processing to classify the music into different genres and quantify the different attributes of the music used.<br>
-<br>
 
 <font style="color:#18539b; font-size:18px;"><b>
 News/Social/Data Analysis for stock prediction using Spark 1.1
@@ -51,7 +46,7 @@ Analyzing News feeds, twitter data and other data sets to predict stocks using m
 <font style="color:#18539b; font-size:18px;"><b>
 Women Safety App</b></font><br>
 
-App that uses machine learning to figure out anyone's usual hangouts and reports any unusual happenings unless it is pre-verified by the user.
+A mobile application that aims to improve the standards of safety for women by providing them with a reliable way to place an emergency call. The model has a straightforward interface that achieves its intended purpose by allowing the user to easily trigger the calling function by shaking the phone. A message containing the geographical location of the user at the time at which the alarm is triggered, as well as contact details of a pre-selected list of emergency contacts, is immediately sent to the police.
 <br>
 <br>
 

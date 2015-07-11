@@ -76,7 +76,7 @@ include('latest.php');
 <div id="testimonials">
 <div class="carousel-inner">
 <div class="item active">
-"The best about IEEE is people and events. I Quote: You can work together with awesome people."
+"IEEE is a place where you can collaborate with awesome people to work on innovative ideas and share it with world in few days."
 <p align="right"><i>Vikas Yaligar, <font style="color:#18539b;"><b><a href="python.html">Python</a></b></font></i></p>
 </div>
 <div class="item">

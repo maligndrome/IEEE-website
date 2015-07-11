@@ -15,12 +15,6 @@
             "email": "akshayvkumar1995@gmail.com",
             "linkedin": "https://in.linkedin.com/pub/akshay-kumar/7a/5a/53a"
         },
-		{
-            "id": "Anand",
-            "name": "Anand Gopalakrishnan",
-            "interests": "Signal Processing in general, well versed in specifically Image Processing, Speech Processing",
-            "email": "cr7anand@gmail.com"
-        },
         {
             "id": "Anjana",
             "name": "Anjana Thimmaiah",
@@ -50,6 +44,13 @@
             "interests": "Blending engineering concepts with other fields like psychology, law,etc Analog, Communication, Natural Language Processing. Debating, Writing, Reading.",
             "email": "chaitalikulkarni.13@gmail.com"
         },
+		{
+			"id": "Dhanvini",
+            "name": "Dhanvini Gudi",
+            "interests": "Electronics, Dance, Music",
+            "email": "dhanvini.gudi@gmail.com",
+            "linkedin":"https://www.linkedin.com/pub/dhanvini-gudi/ba/334/155"
+		},
         {
             "id": "Gaurav",
             "name": "Gaurav S Hegde",
@@ -81,11 +82,11 @@
             "interests": "High Performance Computing, Competitive Coding, Film Analysis, Travelling",
             "email": "krishnakinnal@gmail.com"
         },
-        {
-            "id": "Namrata",
-            "name": "Namrata Kogalur",
-            "interests": "Power electronics, renewable energy",
-            "email": "namrata.kogalur@gmail.com"
+		{
+            "id": "Meet",
+            "name": "Meet Upadhyay",
+            "interests": "Aerodynamics, manufacturing, structures",
+            "email": "meetupadhyay1@gmail.com"
         },
 		{
 			"id": "Mintu",
@@ -94,6 +95,12 @@
             "email": "mintujot@ieee.org",
             "linkedin":"https://www.linkedin.com/profile/view?id=189302612"
 		},
+		{
+            "id": "Namrata",
+            "name": "Namrata Kogalur",
+            "interests": "Power electronics, renewable energy",
+            "email": "namrata.kogalur@gmail.com"
+        },
         {
             "id": "Nitin",
             "name": "Nitin Srinath",
@@ -114,6 +121,13 @@
             "interests": "Signal and Image processing",
             "email": "pavancm8@gmail.com",
             "linkedin": "http://in.linkedin.com/pub/pavan-chennagiri-m/80/338/758"
+        },
+		{
+            "id": "Ravi",
+            "name": "Ravi Hasyagar",
+            "interests": "Analysis and design Mechanisms, Biomechanics, Gravitational Physics.",
+            "email": "ravi.hasyagar@gmail.com",
+            "linkedin": "https://www.linkedin.com/hp/?dnr=vUiqG1gGU7lt94ahvZvFGVCGQcgti3BUQSn"
         },
         {
             "id": "Rohit",
@@ -157,7 +171,8 @@
             "id": "Siddharth",
             "name": "Siddharth Dhananjay",
             "interests": "Materials Science, Nanotechnology, Computational Materials Science",
-            "email": "siddharth.dhananjay.in@ieee.org"
+            "email": "siddharth.dhananjay.in@ieee.org",
+			"linkedin": "https://www.linkedin.com/profile/view?id=363882531"
         },
         {
             "id": "Sneha",
@@ -229,6 +244,13 @@
             "linkedin": "https://in.linkedin.com/pub/akanksha-kumari/97/6a0/361",
             "github": "https://github.com/akankshakmr174",
 			"position":"Computer Society Treasurer"
+        },
+		{
+            "id": "Anand",
+            "name": "Anand Gopalakrishnan",
+            "interests": "Signal Processing in general, well versed in specifically Image Processing, Speech Processing",
+            "email": "cr7anand@gmail.com",
+			"position":"SPS Chair"
         },
 		{
             "id": "Anshej",

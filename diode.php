@@ -52,13 +52,7 @@ Building a Radar using copper tin cans. Laptop-based radar sensor capable of mea
 
 The device is intended for stimulation of motor nerves to locate nerves and test nerve excitability. Such devices are commonly used during surgeries. Although such devices can be bought, they are mostly not available in India and are expensive.<br>
 <br>
-<font style="color:#18539b; font-size:18px;"><b>
-Alcohol Detection System for Prevention of Drinking-and-Driving
-</b></font><br>
 
-We propose to prevent drinking-and-driving by installing a system in cars/bikes that will first analyze the breath of the driver before allowing the driver to turn on the car/bike. If the breath indicates a level of alcohol which is not favorable for driving safely, the system will not allow the vehicle to be turned on thereby preventing him from driving. The system consists of an alcohol sensor which is fitted on to a wearable device.
-<br>
-<br>
 
 <font style="color:#18539b; font-size:18px;"><b>Sensitive Hands
 </b></font><br>
