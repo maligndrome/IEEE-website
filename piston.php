@@ -3,6 +3,9 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="The official website of IEEE NITK Student Branch">
+<meta name="keywords" content="IEEE,NITK,society,club,KREC,Mangalore,Surathkal,NIT">
+<meta name="author" content="Yuvraj Singh Bawa">
 <title>IEEE NITK- Piston</title>
 <link rel="icon" type="image/png" href="images/favicon.png">
 <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -39,29 +42,20 @@ The SIG consists of 2 societies namely Mach (Mechanical, Automation and Chemical
 <font style="color:#18539b; font-size:30px;">Projects</font><br>
 <br>
 <font style="color:#18539b; font-size:18px;"><b>
-RC Plane<br>
+RC Plane</b></font><br>
+Designing, analysing and producing an RC plane. This involves understanding the aerodynamic forces and moments acting on the plane, choosing the right motors, controllers for its operations and making it fly. The project involved optimization of various parameters for an enhanced flight. The project was to explain the systematic methodology followed for designing, analysing and building the RC plane including details of optimization.<br>
+<br>
+<font style="color:#18539b; font-size:18px;"><b>
+Bike Simulator</b></font><br>
+
+The main aim of the project is to develop a control prototype model of a two wheeler. The project involved mathematically modelling and simulating a two wheeled vehicle in a virtual world through computation of dynamic equations. MiL (Model-in-the-loop) and HiL (Hardware-in-the-loop) tests are conducted to validate the controller and the model. The VR-Sink block in Simulink simulates the bike in virtual world. <br>
+<br>
+<font style="color:#18539b; font-size:18px;"><b>
+Synthesis of Nanoparticles from Commercial Bio-waste
+</b></font><br>
+ This project was directed towards synthesizing nanoparticles viz. ZnO from commercial bio waste (Areca nut). To start with, we experimented on sources that had already been worked upon, like teak leaves, badam leaves, coconut husk and date seeds; and successfully obtained the Ag, ZnO, Fe nanoparticles.<br>
 <br>
 
-Hovercraft<br>
-<br>
-
-Bike Simulator<br>
-<br>
-
-Micro Aerial Vehicle (MAV) - Multi functional, militarily capable, small flight vehicles<br>
-<br>
-
-Bioremediation of Oil Spill.<br>
-<br>
-
-Preparation and Characterization of Bamboo Charcoal/Silver Nano-composites<br>
-<br>
-
-Biosynthesis of Nanoparticles from Waste Biomass<br>
-<br>
-
-Production of Biorenewable Chemicals and Biofuels from Non-edible feedstock<br>
-<br>
 
 
 <div class="panel-group" id="accordion">

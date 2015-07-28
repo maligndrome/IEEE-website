@@ -339,6 +339,15 @@
             "email": "sandeepnayak1.618@gmail.com",
 			"position":"3D Printer Head and Piston Projects Coordinator"
         },
+		{
+            "id": "Shivani",
+            "name": "Shivani Snehal Parikh",
+            "interests": "System Security, Double Spending issues in Bitcoins, Distributed Computing",
+            "email": "shivani_parikh11@ieee.org",
+            "linkedin": "https://in.linkedin.com/pub/shivani-parikh/77/909/a7a",
+            "github": "https://github.com/ShivaniParikh",
+			"position":"Chairperson"
+        },
         {
             "id": "Supriya",
             "name": "Supriya N",

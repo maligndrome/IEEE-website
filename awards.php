@@ -3,6 +3,9 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="The official website of IEEE NITK Student Branch">
+<meta name="keywords" content="IEEE,NITK,society,club,KREC,Mangalore,Surathkal,NIT">
+<meta name="author" content="Yuvraj Singh Bawa">
 <title>IEEE NITK- Awards</title>
 <link rel="icon" type="image/png" href="images/favicon.png">
 
@@ -41,6 +44,8 @@ The Best Student Branch Award</font><br>
 <br>
 <font style="font-size:18px; color:#18539b;">Achievements</font>
 <ul>
+
+<li>Amrutash Nanda & Jacob Kiran, executive members, are the finalists of Young Innovator Challenge, organised by Honeywell Technology Solutions, and of EngiNX, organised by Tata Consultancy Services, for the year 2013.
       <li>Interactive Environment Education Platform (IEEP) 
 <ul><li>The Darrel Chong Student Activity Award - Silver
 <li>IEEP was ranked among top 10 projects in IBM-IEEE Smarter Planet Contest.

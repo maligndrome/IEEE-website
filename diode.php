@@ -3,6 +3,9 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="The official website of IEEE NITK Student Branch">
+<meta name="keywords" content="IEEE,NITK,society,club,KREC,Mangalore,Surathkal,NIT">
+<meta name="author" content="Yuvraj Singh Bawa">
 <title>IEEE NITK- Diode</title>
 <link rel="icon" type="image/png" href="images/favicon.png">
 <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -20,7 +23,18 @@
 <hr>
 <img src="images/ieee_cas.png" style="float:left; padding-right:20px;" class="img-responsive">
 <font style="font-size:18px">
-<font style="color:#18539b;">The Circuits and Systems (CAS)</font> group, also known as <i>Diode</i> consists of a team of students with a strong interest in the field of Electronics and Electrical Science. There are various seminars and talks organised by this SIG to encourage students to learn and gain more knowledge in their particular field of interest. CAS has contributed greatly to the development of interest in the field of robotics and microcontrollers. Tutorials for microcontroller programming and software like MATLAB and PSpice, are a regular part of Diode's activities. Various sessions held have had eager teams discussing robotics and other intriguing problem statements. The main focus of the CAS is on small projects, a cross-year collaborative effort among all the members that will help in academics and give us an edge when participating in various technical competitions conducted in many prestigious institutes.<br />
+<font style="color:#18539b;">The Circuits and Systems (CAS)</font> group, also known as <i>Diode</i> consists of a team of students with a strong interest in the field of Electronics and Electrical Science. There are various seminars and talks organised by this SIG to encourage students to learn and gain more knowledge in their particular field of interest. CAS has contributed greatly to the development of interest in the field of robotics and microcontrollers. Tutorials for microcontroller programming and software like MATLAB and PSpice, are a regular part of Diode's activities. Various sessions held have had eager teams discussing robotics and other intriguing problem statements. The main focus of the CAS is on small projects, a cross-year collaborative effort among all the members that will help in academics and give us an edge when participating in various technical competitions conducted in many prestigious institutes.<br /><br />
+<font style="color:#18539b;">SIGNAL PROCESSING SOCIETY, IEEE NITK</font><br>
+
+The necessity of signal processing is omnipresent in all fields of technology and the Signal Processing Society, IEEE NITK (SPS NITK) is addressing the existing and innovative problems in the field by providing a platform for the SP enthusiasts for working on them.<br>
+
+With the focus to pursue projects which have research potential, humanitarian applications or directed towards some well-known competitions such as Signal Processing Cup etc., the group has been pursuing projects in the broad field of Image and speech processing and aims to expand more.<br>
+
+Most of the projects are based on research problems and are aimed towards Artificial Intelligence and procurement of intellectual properties for IEEE NITK. A part of an ongoing project - paper titled 'Eyebrow Segmentation and Characterization using Energy Estimation and K-Means Clustering'  has been accepted for publication in a computer vision conference, SIBGRAPI-2015, to be held in Brazil this year.<br>
+
+The major events planned are IEEE talk series on Signal processing and knowledge sharing sessions for expanding the knowledge base.<br>
+
+
   </font>  
 <br>
 <br>

@@ -3,6 +3,9 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="The official website of IEEE NITK Student Branch">
+<meta name="keywords" content="IEEE,NITK,society,club,KREC,Mangalore,Surathkal,NIT">
+<meta name="author" content="Yuvraj Singh Bawa">
 <title>IEEE NITK- Members</title>
 <link rel="icon" type="image/png" href="images/favicon.png">
 <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -66,33 +69,41 @@ a:hover
 <hr>
 <h3> Faculty advisors</h3><hr /><br />
 <div class="row text-center">
-<div class="col-lg-3">
+<div class="col-lg-2 col-lg-offset-1">
 <img src="images/members/sumam_david.jpg" class="img-responsive img-circle" style="max-height:150px; margin: 0 auto;"/><br />
 <b>Dr. Sumam David</b><br>
 <i>Branch advisor</i><br>
 <a href="http://sumam.nitk.ac.in/">Web page</a>
 </div>
 
-<div class="col-lg-3">
+<div class="col-lg-2">
 <img src="images/members/annappa.jpg" class="img-responsive img-circle"  style="max-height:150px; margin: 0 auto;"/><br />
 <b>Dr. Annappa</b><br>
 <i>Computer Society faculty advisor</i><br>
 <a href="http://cse.nitk.ac.in/faculty/annappa">Web page</a>
 </div>
 
-<div class="col-lg-3">
+<div class="col-lg-2">
 <img src="images/members/msbhat.png" class="img-responsive img-circle"  style="max-height:150px; margin: 0 auto;"/><br />
 <b>Dr. M. S. Bhat</b><br>
 <i>CAS faculty advisor</i><br>
 <a href="http://ece.nitk.ac.in/faculty/m-shankaranarayana-bhat">Web page</a>
 </div>
 
-<div class="col-lg-3">
+<div class="col-lg-2">
 <img src="images/members/rkini.jpg" class="img-responsive img-circle"  style="max-height:150px; margin: 0 auto;"/><br />
 <b>Dr. Ramesh Kini</b><br>
 <i>RAS faculty advisor</i><br>
 <a href="http://ece.nitk.ac.in/faculty/ramesh-kini-m">Web page</a>
 </div>
+
+<div class="col-lg-2">
+<img src="images/members/deepu.jpg" class="img-responsive img-circle"  style="max-height:150px; margin: 0 auto;"/><br />
+<b>Dr. Deepu Vijayasenan</b><br>
+<i>SPS faculty advisor</i><br>
+<a href="http://ece.nitk.ac.in/faculty/deepu-vijayasenan">Web page</a>
+</div>
+
 </div>
 
 <div id="id01"></div>
